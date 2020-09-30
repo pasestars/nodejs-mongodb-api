@@ -1,0 +1,3 @@
+MONGODB_URL=mongodb+srv://pasestars:<password>@cluster0.jiz3k.mongodb.net/<jwt-nodejs>?retryWrites=true&w=majority
+JWT_KEY=CuongDV
+PORT=3000

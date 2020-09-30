@@ -1,0 +1,1 @@
+MONGODB_URL=mongodb+srv://pasestars:<password>@cluster0.jiz3k.mongodb.net/user-graphql?retryWrites=true&w=majority
